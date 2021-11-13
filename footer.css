@@ -1,0 +1,60 @@
+.footer {
+    background-color: black;
+  }
+  
+  /* .footer-container {
+    padding: 20rem 1.5rem 0 1.5rem;
+    
+  } */
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .promotion{
+    color:rgb(43, 102, 211);
+  }
+  .footer-title {
+    position : relative;
+    font-size: 350%;
+    letter-spacing: 10rem;
+    color: var(--white);
+    text-align: left;
+    font-weight: 50;
+    margin-bottom: 4rem;
+    line-height: 5rem;
+    letter-spacing: -0.3rem;
+  }
+  .footer-explain{
+    align-items: center;
+    font-size: 450%;
+
+  }
+
+  .footer-button {
+    /* padding: 2rem 6rem; */
+    /* position: relative; */
+    text-decoration: rgb(253, 253, 253);
+    width: 200px;
+    height: 50px;
+    border: rgb(105, 105, 216);
+    /* border-radius: 3rem; */
+    color: var(--white);
+    background: #5e2fe0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    /* letter-spacing: 0.1rem; */
+    /* outline: rgb(43, 102, 211); */
+    cursor: pointer;
+    transition: all 0.4s ease;
+    /* margin-bottom: 3rem; */
+    align-items: left;
+    font-style: 'Roboto', sans-serif;
+    margin-top: -12px;
+
+  }
+  
+  .footer-button:hover {
+    background: black;
+  }

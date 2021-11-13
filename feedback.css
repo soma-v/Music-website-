@@ -1,0 +1,15 @@
+.feedback-container{
+    align-items: center;
+    background-color: #f5f1f3;
+}
+
+.feedback-state{
+    align-content:center;
+    margin-top: auto;
+    font-style: italic;
+}
+
+.feedback-state1{
+    margin-top: 10px;
+    font-style: italic;
+}
